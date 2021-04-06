@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: archdo0909@gmail.com
-    website: github.com/archdo0909/online-cv #do not add http://
+    website: #do not add http://
     linkedin:
     github: archdo0909
     # telegram: # add your nickname without '@' sign
@@ -38,7 +38,7 @@ sidebar:
       - item: Image Processing
         link:
       
-      - item: iOS
+      - item: iOS Development
         link:
 
 career-profile:
@@ -51,20 +51,16 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Sc in Department on Electrical Engineering and Computer Science
+      university: Kyushu university
+      time:
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Studied in Kyushu university in department of Eletrical Engineering and Computer Science
+        with the assistance of Korea-Japan Joint Exchange Program in Science and Engineering Students.
+        
+    - degree: M.Sc in Department of Precision Engineering
+      university: The University of Tokyo
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
